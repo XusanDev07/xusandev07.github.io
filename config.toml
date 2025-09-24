@@ -2,7 +2,7 @@ baseURL = 'https://xusandev07.github.io/'
 languageCode = 'en-us'
 theme = 'paper'
 
-title = "XusanDev's Space"
+title = "Khusan's Space"
 description = "Welcome to my personal space — projects, blog, and more."
 
 DefaultContentLanguage = "en"
@@ -26,7 +26,7 @@ comments = true
 math = true
 github = 'xusandev07'
 avatar = 'https://gravatar.com/userimage/271767549/98ab746d7b1c32fce0c76acb4072b4c2.jpeg?size=256'
-name = 'XusanDev'
+name = 'Khusan Khalil'
 bio = '👋 Hello! I am a developer passionate about building cool projects.'
 color = 'dark'
 
