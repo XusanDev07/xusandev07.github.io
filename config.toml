@@ -1,0 +1,46 @@
+baseURL = 'https://xusandev07.github.io/'
+languageCode = 'en-us'
+theme = 'paper'
+
+title = "XusanDev's Space"
+description = "Welcome to my personal space — projects, blog, and more."
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 15
+
+recent_posts_number = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
+
+[params]
+comments = true
+math = true
+github = 'xusandev07'
+avatar = 'https://gravatar.com/userimage/271767549/98ab746d7b1c32fce0c76acb4072b4c2.jpeg?size=256'
+name = 'XusanDev'
+bio = '👋 Hello! I am a developer passionate about building cool projects.'
+color = 'dark'
+
+[params.giscus]
+repo = "xusandev07/xusandev07.github.io"
+repoId = ""
+category = "General"
+categoryId = ""
+mapping = "pathname"
+strict = "0"
+reactionsEnabled = "1"
+emitMetadata = "0"
+inputPosition = "bottom"
+theme = "preferred_color_scheme"
+lang = "en"
+
+[params.homeInfoParams]
+Title = "Hello from XusanDev! 👋"
