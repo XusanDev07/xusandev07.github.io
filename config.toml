@@ -32,9 +32,9 @@ color = 'dark'
 
 [params.giscus]
 repo = "xusandev07/xusandev07.github.io"
-repoId = ""
+repoId = "R_kgDOP0FA6w"
 category = "General"
-categoryId = ""
+categoryId = "DIC_kwDOP0FA684Cv1XN"
 mapping = "pathname"
 strict = "0"
 reactionsEnabled = "1"
